@@ -1,4 +1,4 @@
-# singup-login-JWT
+# Singup-login-JWT
 
 Use 16 LTS version of Node.js
 
